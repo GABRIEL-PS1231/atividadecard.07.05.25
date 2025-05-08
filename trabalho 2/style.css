@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+  }
+ 
+ h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  div {
+    box-shadow: 10px 10px 5px 12px lightblue;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .card, .card2{
+    width: 300px;
+    border: 10px solid #000000;
+    padding: 50px;
+    margin: 50px;
+  }
+  .card-body {
+    padding: 10px;
+  }
+  .btn-primary {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+  }
+.cards-container{
+    align-items: center;
+}
